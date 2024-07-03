@@ -1,7 +1,7 @@
 # Block-based doubly linked list
 Note: *This code was developed in 2022 as a project for the Algorithms and Data Structures course at the Gdańsk University of Technology. The author of the task's requirements is Dr. Tytus Pikies. The detailed requirements of the project are available [here](/additional_files/task_description.txt).*
 
-## Idea
+## Background
 ### Basic assumptions
 The aim of the project was to develop a data structure which operates as a doubly linked list but allows storing more than one object in a single node. The two exemplary nodes are presented below (for simplicity, stored objects are just positive integers).
 
