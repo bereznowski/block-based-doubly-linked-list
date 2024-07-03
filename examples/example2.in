@@ -1,0 +1,16 @@
+I 64
+A. BEG 1
+A. END 2
+A. END 3
+A. END 4
+A. END 6
+P ALL
+i 0 BEG
++ 0
++ 0
+R 0 
+P ALL
+A. 0 5
+P ALL
+.A 0 3
+P ALL
